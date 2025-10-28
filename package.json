@@ -1,6 +1,6 @@
 {
   "name": "context-sync",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "description": "Local persistent memory store for LLM applications including continue.dev, cursor, claude desktop, github copilot, codex, antigravity, etc.",
   "main": "src/index.ts",
   "scripts": {
